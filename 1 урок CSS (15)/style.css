@@ -1,0 +1,11 @@
+p.text--bold{
+  color: red;
+}
+
+div.child{
+  color: aqua;
+}
+
+a[href="https://learn.aroken.ru/home"] {
+  color: blue;
+}
