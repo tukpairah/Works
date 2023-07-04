@@ -1,0 +1,11 @@
+p.text--bold{
+  color: red;
+}
+
+div.child{
+  color: aqua;
+}
+
+#block {
+  color: rgb(51, 255, 0);
+}
