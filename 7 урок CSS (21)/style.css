@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 400;
+  font-style: normal;
+  src: local("TimesNewRomanMTSd"),
+      url("../fonts/TimesNewRomanMTSd.woff2") format('woff2'),
+      url("../fonts/TimesNewRomanMTSd.woff") format('woff'),
+      url("../fonts/TimesNewRomanMTSd.eot") format('eot');
+  font-display: swap;
+}
+
+.title-1 {
+  font-family:'Martian Mono', monospace;
+  font-weight: 500;
+  font-style: bold;
+  font-size: 47px;
+}
