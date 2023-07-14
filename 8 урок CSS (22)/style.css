@@ -1,0 +1,7 @@
+.text__block {
+  margin: 25px;
+  margin-bottom: 0px;
+  width: 50%;
+  max-height: 100px;
+  overflow: scroll;
+}
