@@ -12,6 +12,7 @@
 }
 
 .block__1 {
+display: inline-block; 
 margin: 30px;
 width: 300px;
 height: 300px;
@@ -34,6 +35,7 @@ p {
 }
 
 .block__2 {
+  display: inline-block; 
 margin: 30px;
 width: 300px;
 height: 300px;
@@ -45,6 +47,7 @@ border-radius: 10px
 }
 
 .block__3 {
+  display: inline-block; 
 margin: 30px;
 width: 300px;
 height: 300px;
@@ -56,6 +59,7 @@ border-radius: 10px
 }
 
 .block__4 {
+  display: inline-block; 
 margin: 30px;
 width: 300px;
 height: 300px;
@@ -67,6 +71,7 @@ border-radius: 10px
 }
 
 .block__5 {
+  display: inline-block; 
 margin: 30px;
 width: 300px;
 height: 300px;
@@ -78,6 +83,7 @@ border-radius: 10px
 }
 
 .block__6 {
+  display: inline-block; 
 margin: 30px;
 width: 300px;
 height: 300px;
@@ -89,6 +95,7 @@ border-radius: 10px
 }
 
 .block__7 {
+  display: inline-block; 
 margin: 30px;
 width: 300px;
 height: 300px;
@@ -100,6 +107,7 @@ border-radius: 10px
 }
 
 .block__8 {
+  display: inline-block; 
 margin: 30px;
 width: 300px;
 height: 300px;
@@ -111,6 +119,7 @@ border-radius: 10px
 }
 
 .block__9 {
+  display: inline-block; 
 margin: 30px;
 width: 300px;
 height: 300px;
@@ -122,6 +131,7 @@ border-radius: 10px
 }
 
 .block__10 {
+  display: inline-block; 
 margin: 30px;
 width: 300px;
 height: 300px;
